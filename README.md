@@ -1,1 +1,1 @@
-Hi, I'm Cassandra! I am an engineering student at Temescal Canyon High School, and I plan to pursue software engineering or data science!
+Hi, I'm Cassandra! I am an engineering student in high school based in Southern California, and I plan to pursue software engineering or data science!
