@@ -1,1 +1,3 @@
-Hi, I'm Cassandra! I am an engineering student in high school based in Southern California, and I am passionate about leveraging artificial intelligence (data science + machine learning) to solve problems in society. In addition, I love fashion and neuroscience! 
+hi! i'm cassandra, an engineering student based in socal! 
+i am interested in computer vision, computational biology, and explainable ai - essentially applying ai/ml in medicine and healthcare.
+when i'm not busy, i love visiting new cafés (for matcha), and listening to music!
