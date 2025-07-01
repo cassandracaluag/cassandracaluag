@@ -4,7 +4,7 @@
 # about me
 🤍 My interests lie in data science and machine learning - fields that allow me to uncover patterns, solve real-world problems, and build intelligent systems. One day, I hope to become a data scientist at a startup or at a competitive big tech company, where I can work on innovative, high-impact projects and help shape technology from the ground up. 
 
-🌊 Currently: I am a Fellow at The Knowledge House (Karim Kharbouch Coding Fellowship), strengthening my skills in product development and UI/UX design by learning industry-standard front-end development software. Within this competitive capstone fellowship, I’m building Harbor - a tech startup and AI-powered wellness app that offers personalized support for mental and physical health.
+🌊 Currently: I am a Fellow at The Knowledge House (Karim Kharbouch Coding Fellowship), strengthening my skills in product development and UI/UX design by learning industry-standard front-end development software. Within this competitive capstone fellowship, I’m building Harbor - a tech startup and AI-powered wellness app that offers personalized support for mental and physical health. Through KKCF, I hope to build on my full-stack development experience while gaining the confidence and tools to effectively pitch my projects to others.
 
 # tech stack
 Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter
