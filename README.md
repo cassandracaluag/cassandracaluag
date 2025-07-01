@@ -13,7 +13,7 @@ Let's be friends - I’m always open to connecting and gaining new opportunities
 [![instagram](https://img.shields.io/badge/instagram-262e36?style=for-the-badge&logo=instagram&logoColor=d3d1ce)](https://www.instagram.com/csndracal/)
 [![gmail](https://img.shields.io/badge/gmail-202940?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassandralinneacaluag@gmail.com)
 
-# tech stack
-Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter
+# tech / tool stack
+Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter, Google Colaboratory
 
 
