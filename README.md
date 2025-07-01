@@ -6,10 +6,12 @@
 
 🌊 Currently: I am a Fellow at The Knowledge House (Karim Kharbouch Coding Fellowship), strengthening my skills in product development and UI/UX design by learning industry-standard front-end development software. Within this competitive capstone fellowship, I’m building Harbor - a tech startup and AI-powered wellness app that offers personalized support for mental and physical health.
 
+# tech stack
+Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter
 
 # socials + my résumé
-Let's be friends - I’m always open to new opportunities and internships that help me level up my skills in data science and machine learning. 
-<div align="left">
+Let's be friends - I’m always open to connecting and gaining new opportunities that help me level up my skills in data science and AI/ML.
+
   <a href="https://www.linkedin.com/in/cassandra-caluag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3a4654&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -17,11 +19,5 @@ Let's be friends - I’m always open to new opportunities and internships that h
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=262e36&logoColor=d3d1ce&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:cassandralinneacaluag@gmail.com" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=131D38&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=202940&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-# tech stack
-Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter
-
-
-
