@@ -1,4 +1,4 @@
-# hello!
+# hello there!
 🐚 My name is Cassandra, and I am a rising senior in high school. Glad you stopped by!
 
 # about me
