@@ -9,7 +9,7 @@
 # tech stack
 Python, PyTorch, Flask, Scikit-learn, Numpy, HTML, CSS, Vercel, Matplotlib, Pandas, Figma, JavaScript, C++, Java, Tableau, Jupyter
 
-# socials + my résumé
+# socials
 Let's be friends - I’m always open to connecting and gaining new opportunities that help me level up my skills in data science and AI/ML.
 
   <a href="https://www.linkedin.com/in/cassandra-caluag/" target="_blank">
