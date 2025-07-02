@@ -10,7 +10,7 @@
 Let's be friends - I’m always open to connecting and gaining new opportunities that help me level up my skills in data science and AI/ML!
 
 [![linkedin](https://img.shields.io/badge/linkedin-3a4654?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassandra-caluag/)
-[![instagram](https://img.shields.io/badge/instagram-262e36?style=for-the-badge&logo=instagram&logoColor=d3d1ce)](https://www.instagram.com/csndracal/)
+[![instagram](https://img.shields.io/badge/instagram-2d384a?style=for-the-badge&logo=instagram&logoColor=d3d1ce)](https://www.instagram.com/csndracal/)
 [![gmail](https://img.shields.io/badge/gmail-202940?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassandralinneacaluag@gmail.com)
 
 # tech / tool stack
